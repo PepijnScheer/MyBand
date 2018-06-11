@@ -1,0 +1,180 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+body {
+
+	font-family: 'Acme', sans-serif;
+
+	background-color: white;
+
+}
+
+a, #suicideboys {
+	color: #323232;
+	text-decoration: none;
+}
+
+a:hover, #suicideboys{
+	color: #323232;
+}
+
+a:visited, #suicideboys {
+	color: #323232;
+}
+
+
+
+
+
+.aligncenter, div.aligncenter {
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+
+	float: left;
+}
+
+.alignright {
+
+	float: right;
+}
+
+.wrap {
+
+	clear: both;
+	margin:0 auto;
+	width:860px;
+}
+
+hr {
+	border-color: black;
+}
+
+nav {
+
+	width:860px;
+	height: 20px;
+}
+
+nav ul {
+
+	padding-left: 0px;
+	list-style: none;
+}
+
+
+nav ul li a {
+
+	padding-right: 30px;
+}
+
+nav a {
+
+	display: block;
+	float: left;
+	text-transform: uppercase;
+	font-size: 15px;
+
+}
+
+footer {
+
+
+}
+
+
+/*header*/
+#logo {
+	font-family: 'Faster One', cursive;
+
+
+
+}
+
+/*Albums*/
+
+
+/*Oliver francis*/
+
+img {
+	margin-left: 22%;
+}
+
+#chlorine, #Chlorine2, #essentials, #polosocks, #music, #suicideboys, #suicidesongs {
+	margin-left: 22%;
+}
+
+#Chlorine2 {
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 30px;
+	color: black;
+}
+
+#chlorinealbum, #essentialsalbum, #polosocksalbum {
+	margin-left: 20%;
+}
+
+#chlorine10, #polosocks10 {
+	margin-left: 25%;
+}
+
+#suicide10 {
+	margin-left: 25.2%;
+}
+
+#chlorinesongs, #essentialssongs, #polosockssongs, #music {
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 30px;
+}
+
+#music {
+	padding: 0;
+}
+
+#oliveralbums {
+	margin-left: 20%;
+}
+
+#container {
+	display: inline-block;
+}
+
+#essentials10 {
+ 	margin-left: 12.5%;
+}
+
+/*SuicideBoys*/
+
+
+#salbum {
+	margin-left: 17.5%;
+	margin-top: -16.85%;
+}
+
+
+/*Home*/
+
+#homefont {
+	font-family: 'Pangolin', cursive;
+	margin-left: 22%;
+
+}
+
+#hometext {
+	margin-left: 22%;
+	color: #323232;
+	font-family: 'Pangolin', cursive;
+}
+
+#suicideboyshome {
+	margin-right: 27%;
+}
+
+#info {
+	margin-left: 22%;
+}
